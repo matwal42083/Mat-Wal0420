@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mat-Wal0420
+- 👋 Hi, I’m @Mat-Wal0420 I'm currently a fullstack academy student in Web Development
 - 👀 I’m interested in Software development engineering, websites, mobile apps, desktops app 
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate on lots of different thing to expand my knowlegde. Im learning right now and Im wanting 
