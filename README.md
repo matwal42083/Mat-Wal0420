@@ -16,10 +16,10 @@
    <br>
    <br>
    <div>
-      <img src="https://github.com/user-attachments/assets/47f74bb3-87c7-4a04-8a7a-7da0017c464f" alt="matwal42083 (1)-my-devCard" width="300" height="400">
-   </div>
+     <a href="https://app.daily.dev/matwal42083"><img src="https://api.daily.dev/devcards/v2/wT3UFwCXlWxZVj6oTlXEN.png?type=default&r=plv" width="356" heigth="400px" alt="matwal42083"/></a>
+    </div>
 
-  
+  <a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a
 
    
 
