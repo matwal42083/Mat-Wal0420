@@ -19,7 +19,7 @@
      <a href="https://app.daily.dev/matwal42083"><img src="https://api.daily.dev/devcards/v2/wT3UFwCXlWxZVj6oTlXEN.png?type=default&r=plv" width="356" heigth="400px" alt="matwal42083"/></a>
     </div>
 
-  <a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Francesco's Dev Card"/></a
+
 
    
 
