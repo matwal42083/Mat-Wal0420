@@ -9,14 +9,13 @@
      <h3>education</h3>
      <img src="https://github.com/user-attachments/assets/e295a304-8ae2-4be1-aba1-c57467a0fb47" alt="FullstackAcademyLogoNoBG 2024-06-11 153518">  <img src="https://github.com/user-attachments/assets/371ef298-4d73-43d6-9fcf-7c8dabe41304" alt="freeCodeCamp2LogoNoBG"><img src="https://github.com/user-attachments/assets/58b9c638-4e80-436f-8452-e41b30469e0f" alt="SoloLearnLogoNoBG 2024-06-11 152848"><img src="https://github.com/user-attachments/assets/b0b2a8d8-2a5c-4fb2-ab6e-2767f6d9c1a9" alt="codecademyLogo 2024-09-03 164835"><br><br>
      <p>I attended Fullstack Academy online and participated on platforms like<strong><em> Sololearn, freeCodeCamp, and Codecademy</em></strong><br>
-      I've also read a lot of Docs like MDN, JS info, and google developer. I've pretty much taught myself how to code <br>
+      I've also read a lot of documents like MDN, JS info, and Google Developer. I've pretty much taught myself how to code <br>
       in all three languages <strong><em>HTML, CSS, JavaScript</em></strong>
       </p>
    </div>
    <br>
-   <br>
    <div>
-     <a href="https://app.daily.dev/matwal42083"><img src="https://api.daily.dev/devcards/v2/wT3UFwCXlWxZVj6oTlXEN.png?type=default&r=plv" width="356" heigth="400px" alt="matwal42083"/></a>
+     <a href="https://app.daily.dev/matwal42083"><img src="https://api.daily.dev/devcards/v2/wT3UFwCXlWxZVj6oTlXEN.png?type=default&r=plv" width="250" heigth="300px" alt="matwal42083"/></a>
     </div>
 
 
